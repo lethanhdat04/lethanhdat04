@@ -1,4 +1,4 @@
-## 👋 Hi!, I'm Thanh-Dat | ML Engineer | Software Engineer | Writer.
+## 👋 Hi!, I'm Thanh-Dat | ML Engineer | Software Engineer.
 
 > **Work Hard, Build More, and Share Stories. Always Curious.**
 
