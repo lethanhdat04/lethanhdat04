@@ -1,6 +1,6 @@
 ## 👋 Hi!, I'm Thanh-Dat | ML Engineer | Software Engineer.
 
-> **Work Hard, Build More, and Share Stories. Always Curious.**
+> **Work Hard, Build More. Always Curious.**
 
 Student of HEDSPI program at Hanoi University of Science and Technology.
 
